@@ -1,0 +1,9 @@
+@import url("./_font.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-fredoka font-normal bg-background;
+}
